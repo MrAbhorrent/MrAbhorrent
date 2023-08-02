@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrAbhorrent
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning Android, Java, Kotlin, C#, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  mailto:Abhorrent@e1.ru
 
