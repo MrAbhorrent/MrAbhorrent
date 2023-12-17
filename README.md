@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Android, Java, Kotlin, C#, 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  mailto:Abhorrent@e1.ru
+- 📫 How to reach me  mailto:MrAbhorrent@yandex.ru
 
 <!---
 MrAbhorrent/MrAbhorrent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
